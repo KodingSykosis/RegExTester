@@ -1,0 +1,8 @@
+C:\Users\hgodwin\Source\RegExTester\bin\Release\RegExTester.exe.config
+C:\Users\hgodwin\Source\RegExTester\bin\Release\RegExTester.exe
+C:\Users\hgodwin\Source\RegExTester\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hgodwin\Source\RegExTester\obj\Release\RegExTester.AboutForm.resources
+C:\Users\hgodwin\Source\RegExTester\obj\Release\RegExTester.MainForm.resources
+C:\Users\hgodwin\Source\RegExTester\obj\Release\ResGen.read.1.tlog
+C:\Users\hgodwin\Source\RegExTester\obj\Release\ResGen.write.1.tlog
+C:\Users\hgodwin\Source\RegExTester\obj\Release\RegExTester.exe
